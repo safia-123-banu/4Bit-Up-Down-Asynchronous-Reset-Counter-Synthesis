@@ -1,4 +1,4 @@
-## Ex No: 04  Implementation-of-4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis-using-Cadence-EDA-Tools
+## EXP4: Implementation-of-4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis-using-Cadence-EDA-Tools
 ### Aim:
 
 Synthesize 4Bit-Up-Down-Asynchronous-Reset-Counter design using Constraints and analyse reports, Timing, area and Power.
